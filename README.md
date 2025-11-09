@@ -26,6 +26,7 @@ They include:
 👉 You can explore them all here:  
 **[🌐 View My Projects](https://fakry333.github.io/My_Projects/)**  
 **[📂 GitHub Repository](https://github.com/FAKRY333/My_Projects)**
+
 **[ GitHub Repositoryies](https://github.com/FAKRY333/)**
 ---
 
